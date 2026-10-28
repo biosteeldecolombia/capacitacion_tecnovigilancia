@@ -340,7 +340,7 @@
       '<p class="hint">' + ic('help') + 'Marca la casilla cuando termines para que cuente en tu progreso.</p></div>';
   }
   function finishBlock(m) {
-    return '<div class="finish"><img src="assets/img/logo-biosteel.png" alt="BioSteel de Colombia" width="220" height="61"><h3>' + m.closing + '</h3><p class="prose" style="margin:0 auto">' + m.closingText + '</p></div>';
+    return '<div class="finish"><img src="assets/img/logo-biosteel-ojo.png" alt="BioSteel de Colombia" width="220" height="131"><h3>' + m.closing + '</h3><p class="prose" style="margin:0 auto">' + m.closingText + '</p></div>';
   }
 
   function viewEval() {
